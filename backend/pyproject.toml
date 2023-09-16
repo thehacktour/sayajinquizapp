@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "backend sayajin quiz app"
+name = "sayajin quiz app"
 version = "0.1.0"
-description = "Backend Sayajin Quiz APP"
-authors = ["TheHackTour"]
+description = "Sayajin Quiz App"
+authors = ["Hack"]
 license = "MIT"
 readme = "README.md"
 
