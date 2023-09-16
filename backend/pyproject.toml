@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "backend sayajin quiz app"
+version = "0.1.0"
+description = "Backend Sayajin Quiz APP"
+authors = ["TheHackTour"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^4.2.5"
+djangorestframework = "^3.14.0"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
